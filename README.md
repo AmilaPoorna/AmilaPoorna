@@ -3,8 +3,6 @@
 
 <img align="right" alt="linkedin" width = "400" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1724284800&v=beta&t=mDoVceAy8YBcKc5XCIiqZkt3bDY9TOWxAb_x4OMdL8M">
 
-<br/>
-
 - 📝 I am currently seeking **data scientist or data analyst internships.**
 
 - 📫 How to reach me: **0716863631**
