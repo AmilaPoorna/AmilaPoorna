@@ -1,8 +1,6 @@
 <h3 align="left">Hi 👋, I'm Amila Poorna</h3>
 <p align="left">I am currently pursuing my undergraduate degree in applied statistics at the faculty of science, university of Colombo. My passion for machine learning and data analysis drives me to explore diverse approaches to understand and solve real-world problems. I am interested in applying my skills and knowledge to projects that expand the boundaries of decision-making driven by data.</p>
 
-<img align="right" alt="linkedin" width = "400" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1724284800&v=beta&t=mDoVceAy8YBcKc5XCIiqZkt3bDY9TOWxAb_x4OMdL8M">
-
 <br>
 
 - 📝 I am currently looking for **data scientist or data analyst internships.**
