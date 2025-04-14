@@ -8,8 +8,8 @@
 <br>
 
 - 📫 How to reach me:
--  **0716863631**
--  **arunodamkap@gmail.com**
+  -  **0716863631**
+  -  **arunodamkap@gmail.com**
 
 <br>
 
