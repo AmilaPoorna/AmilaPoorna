@@ -1,11 +1,13 @@
 <h3 align="left">Hi 👋, I'm Amila Poorna</h3>
-<p align="left">I am currently pursuing my undergraduate degree in applied statistics at the faculty of science, university of Colombo. My passion for machine learning and data analysis drives me to explore diverse approaches to understand and solve real-world problems. I am interested in applying my skills and knowledge to projects that expand the boundaries of decision-making driven by data.</p>
+<p align="left">I am currently pursuing an undergraduate degree in Applied Statistics at the Faculty of Science, University of Colombo. I am passionate about data science and continuously seek innovative approaches aimed at understanding and addressing data-related problems. I am eager to apply my skills and knowledge to push the boundaries of data-driven decision-making.</p>
 
 <br>
 
-- 📝 I am currently looking for **data scientist or data analyst internships.**
+- 📝 I am currently looking for **data scientist or data analyst positions.**
 
-- 📫 How to reach me: **0716863631**
+- 📫 How to reach me:
+-  **0716863631**
+-  **arunodamkap@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
