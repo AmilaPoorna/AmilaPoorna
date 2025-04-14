@@ -7,9 +7,7 @@
 
 <br>
 
-- 📫 How to reach me:
-  -  **0716863631**
-  -  **arunodamkap@gmail.com**
+- 📞 Contact me: **0716863631**
 
 <br>
 
