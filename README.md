@@ -5,9 +5,13 @@
 
 - 📝 I am currently looking for **data scientist or data analyst positions.**
 
+<br>
+
 - 📫 How to reach me:
 -  **0716863631**
 -  **arunodamkap@gmail.com**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
