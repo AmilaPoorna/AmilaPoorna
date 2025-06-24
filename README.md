@@ -3,7 +3,7 @@
 
 <br>
 
-- 📝 I am currently looking for **data scientist or data analyst positions.**
+- 📝 I am currently looking for **data related positions.**
 
 <br>
 
