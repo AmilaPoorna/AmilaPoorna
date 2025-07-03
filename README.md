@@ -1,5 +1,5 @@
 <h3 align="left">Hi, I'm Amila Poorna 👋</h3>
-<p align="left">I am currently pursuing an undergraduate degree in Applied Statistics at the Faculty of Science, University of Colombo. I am passionate about data science and continuously seek innovative approaches aimed at understanding and addressing data-related problems. I am eager to apply my skills and knowledge to push the boundaries of data-driven decision-making.</p>
+<p align="left">I recently completed my degree in Applied Statistics at the Faculty of Science, University of Colombo. I am passionate about data science and continuously seek innovative approaches aimed at understanding and addressing data-related problems. I am eager to apply my skills and knowledge to push the boundaries of data-driven decision-making.</p>
 
 <br>
 
